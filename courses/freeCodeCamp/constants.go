@@ -1,9 +1,14 @@
 /*
 Agenda
-- Naming convention
-- Untyped constants
-- Enumerated constants
-- Enumeration expressions
+- Arrays
+  - Creation
+  - Built-in functions
+  - Working with arrays
+
+- Slices
+  - Creation
+  - Built-in functions
+  - Working with slices
 */
 package main
 
