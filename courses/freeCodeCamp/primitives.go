@@ -1,5 +1,5 @@
 /*
-Agenda
+Agenda - Primitives
 - Boolean type
 - Numeric types
   - Integers

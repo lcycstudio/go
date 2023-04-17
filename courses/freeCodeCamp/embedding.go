@@ -1,5 +1,5 @@
 /*
-Agenda
+Agenda - Structs
 - Structs
   - What are they?
   - Creating
@@ -7,6 +7,7 @@ Agenda
   - Embedding
   - Tags
 */
+
 package main
 
 import (

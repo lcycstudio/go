@@ -1,5 +1,5 @@
 /*
-Agenda
+Agenda - Constants
 - Arrays
   - Creation
   - Built-in functions
@@ -10,6 +10,7 @@ Agenda
   - Built-in functions
   - Working with slices
 */
+
 package main
 
 import (

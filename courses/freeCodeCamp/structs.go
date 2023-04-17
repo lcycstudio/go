@@ -1,5 +1,5 @@
 /*
-Agenda
+Agenda - Structs
 - Structs
   - What are they?
   - Creating
@@ -7,6 +7,7 @@ Agenda
   - Embedding
   - Tags
 */
+
 package main
 
 import (
@@ -48,5 +49,12 @@ func main() {
 }
 
 /* Summary
--
+- Structs
+  - Collections of disparate data types that describe a single concept
+  - Keyed by named fields
+  - Normally created as types, but anonymous structs are allowed
+  - Structs are value types
+  - No inheritance, but can use composition via embedding
+  - Tags can be added to struct fields to describe field
+
 */

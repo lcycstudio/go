@@ -1,5 +1,5 @@
 /*
-Agenda
+Agenda - Arrays and Slices
 - Maps
   - What are they?
   - Creating
@@ -12,6 +12,7 @@ Agenda
   - Embedding
   - Tags
 */
+
 package main
 
 import (

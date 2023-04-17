@@ -1,11 +1,12 @@
 /*
-Agenda
+Agenda - Variables
 - Variable declaration
 - Redeclaration and shadowing
 - Visibility
 - Naming conventions
 - Type conventions
 */
+
 package main
 
 import (
